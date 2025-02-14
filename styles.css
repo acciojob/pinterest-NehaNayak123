@@ -6,12 +6,12 @@
 	width:100%;
 	height:50%;
 	img{
+		object-fit:cover;
 		width:60%;
 		height:100%;
-		object-fit:cover;
 	}
 	div {
-		height:60%
+		height:60%;
 		padding:20px;
 		text-align:center;
 		button{
